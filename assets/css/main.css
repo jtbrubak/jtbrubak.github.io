@@ -1483,6 +1483,12 @@
 			width: 100%;
 		}
 
+		.image.fit img {
+			margin-left: 35px;
+			height: 120px;
+			width: 120px;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
