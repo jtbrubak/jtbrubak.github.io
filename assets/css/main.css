@@ -2546,3 +2546,11 @@
 		width: 200px;
 		border-radius: 50%;
 	}
+
+	#skills {
+		color: white;
+	}
+
+	#skills h2 {
+		color: black;
+	}
